@@ -1,1 +1,1 @@
-# cartao-apresentacao
+Iniciando os estudos em Python, projeto de aprendizado de variáveis e input
